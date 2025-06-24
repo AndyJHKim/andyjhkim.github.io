@@ -31,6 +31,6 @@ Attention plays a critical role in both human cognition and artificial intellige
 ## Additional opportunities
 If you're interested in emotional face perception, feel free to reach out. This is an ongoing project led by one of my labmates, which I will be joining soon.
 
-I'm also open to broader discussions on brain-inspired AI. If you're curious about potential research directions, please check out the [useful links](usefulLinks.md) section to get a sense of the field.
+I'm also open to broader discussions on brain-inspired AI. If you're curious about potential research directions, please check out the [useful links](useful-links.md) section to get a sense of the field.
 
 Additionally, I welcome conversations about fMRI data analysis methods.
