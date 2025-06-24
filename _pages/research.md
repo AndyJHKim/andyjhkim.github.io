@@ -9,7 +9,7 @@ redirect_from:
 
 I focus on research that bridges cognitive neuropsychology, computational methods, and statistical analysis, with a strong interest in the interdisciplinary challenges that emerge at their intersection.
 
-This page outlines some of the research questions I’m currently investigating or plan to explore in the near future. If you're interested in collaborating—such as joining as an undergraduate research intern—feel free to reach out to me at kim4648@purdue.edu
+This page outlines some of the research questions I’m currently investigating or plan to explore in the near future. If you're interested in collaborating - such as joining as an undergraduate research intern - feel free to reach out to me at kim4648@purdue.edu
 
 For a complete list of publications, please see my [Google Scholar](https://scholar.google.com/citations?user=c0PqBXwAAAAJ&hl=en).
 
