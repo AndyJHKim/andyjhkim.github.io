@@ -10,3 +10,10 @@
 main:
   - title: "CV"
     url: /cv/
+
+  - title: "Research"
+    url: /reserch/
+
+  - title: "Useful Links"
+    url: /useful-links/
+    
