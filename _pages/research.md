@@ -16,14 +16,18 @@ For a complete list of publications, please see my [Google Scholar](https://scho
 
 ## Word size representation in the brain
 When we see a word, how does the brain represent its size? Is this representation grounded in real-world physical size, or does it follow a different internal metric?
+
 Note 1: If you're considering graduate studies in cognitive science or a related field, I encourage you to get involved with this project. fMRI research can be difficult to access due to its high cost, but working with me offers a valuable opportunity to gain hands-on experience. In addition, I have strong expertise in fMRI data analysis at the PhD level, and I'm confident you’ll learn a great deal that can support your own future research.
+
 Note 2: I also have data on other factors - such as valence, arousal, and gender - that you’re welcome to explore in your own research.
+
 * What is [fMRI](https://www.youtube.com/watch?v=rJjHjnzmvDI)?
 * Main methodology I am using: [Representational Similarity Analysis](https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/neuro.06.004.2008/full)
 
 
 ## Attention
 Attention plays a critical role in both human cognition and artificial intelligence. I plan to measure attention using eye-tracking data and incorporate it into algorithm development—or, conversely, use computational models to generate predictions that can be tested against human attention patterns.
+
 * What is [eye tracking](https://www.youtube.com/watch?v=sbkbekz82wQ)?
 * Attention is all you need (super famous paper); [article](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) / [video](https://www.youtube.com/watch?v=eMlx5fFNoYc)
 
