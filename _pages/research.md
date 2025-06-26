@@ -32,7 +32,7 @@ Attention plays a critical role in both human cognition and artificial intellige
 * Attention is all you need (super famous paper); [article](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) / [video](https://www.youtube.com/watch?v=eMlx5fFNoYc)
 
 
-## Additional opportunities
+## Moreover...
 If you're interested in emotional face perception, feel free to reach out. This is an ongoing project led by one of my labmates, which I will be joining soon.
 
 I'm also open to broader discussions on brain-inspired AI. If you're curious about potential research directions, please check out the [useful links](useful-links.md) page to get a sense of the field.
