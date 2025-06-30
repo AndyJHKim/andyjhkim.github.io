@@ -26,7 +26,9 @@ Note 2: I also have data on other factors - such as valence, arousal, and gender
 
 
 ## Attention
-Attention plays a critical role in both human cognition and artificial intelligence. I plan to measure attention using eye-tracking data and incorporate it into algorithm development—or, conversely, use computational models to generate predictions that can be tested against human attention patterns.
+Attention plays a critical role in both human cognition and artificial intelligence. I plan to measure attention using eye-tracking data and incorporate it into algorithm development; or, conversely, use computational models to generate predictions that can be tested against human attention patterns.
+
+Note: This project is still in a very early stage. If you join me on this topic, we’ll start from the ground up: beginning with a literature review and formulating research questions.
 
 * What is [eye tracking](https://www.youtube.com/watch?v=sbkbekz82wQ)?
 * Attention is all you need (super famous paper); [article](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) / [video](https://www.youtube.com/watch?v=eMlx5fFNoYc)
