@@ -11,5 +11,9 @@ Currently being updated...
 
 This page is a collection of materials that have helped me. I highly recommend these resources. Refer to them when you're unsure where to start or want to deepen your understanding.
 
+## Bayesian Statistics
+* [Statistical Rethinking](https://xcelab.net/rm/)
+
 ## fMRI
 * [NI-edu](https://lukas-snoek.com/NI-edu/)
+* [DartBrains](https://dartbrains.org/content/intro.html)
