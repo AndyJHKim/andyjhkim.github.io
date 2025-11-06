@@ -13,6 +13,7 @@ This page is a collection of materials that have helped me. I highly recommend t
 
 ## Bayesian Statistics
 * [Statistical Rethinking](https://xcelab.net/rm/)
+  * [Lectures](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
   * [Python Implementation](https://github.com/aloctavodia/Statistical-Rethinking-with-Python-and-PyMC3)
 
 ## fMRI
